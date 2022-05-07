@@ -31,9 +31,7 @@ html, body {
 
 .cube {
     background-color: #1A1A1A;
-    height: 198px;
-    width: 320px;
-    border-radius: 20%;
+    border-radius: 15%;
     margin: 12px;
     cursor: pointer;
 }
